@@ -1,0 +1,45 @@
+{
+ "rate": 100,
+ "elements": [
+  "Lorentz",
+  "Pikar",
+  "Frost",
+  "Haven",
+  "Maldaer"
+ ],
+ "prefix": {
+  "rate": 100,
+  "elements": [
+   "New",
+   "Ancient",
+   "Lost",
+   "Forgotten",
+   "Adornment",
+   "Prime",
+   "Major",
+   "Minor",
+   "Alpha",
+   "Beta",
+   "Gamma",
+   "Delta",
+   "Omega",
+   "Sigma",
+   "Tau"
+  ]
+ },
+ "suffix": {
+  "rate": 100,
+  "elements": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V",
+   "VI",
+   "VII",
+   "VIII",
+   "IX",
+   "X"
+  ]
+ }
+}

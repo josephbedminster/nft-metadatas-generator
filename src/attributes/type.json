@@ -1,0 +1,26 @@
+{
+  "rate": 100,
+  "elements": [
+    "Moon 1",
+    "Moon 2",
+    "Terrestrial 1",
+    "Terrestrilai 2",
+    "Terrestrilai 3",
+    "Silicate 1",
+    "Silicate 2",
+    "Silicate 3",
+    "Silicate 4",
+    "Protoplanet",
+    "Oceanic",
+    "Lava 1",
+    "Lava 2",
+    "Lava 3",
+    "Iron",
+    "Ice",
+    "Hycean",
+    "Helium",
+    "Gas",
+    "Coreless",
+    "Carbon"
+  ]
+}

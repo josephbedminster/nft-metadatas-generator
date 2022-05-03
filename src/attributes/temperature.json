@@ -1,0 +1,8 @@
+{
+  "rate": 100,
+  "range": {
+    "min": -200,
+    "max": 1000
+  },
+  "unit": "°Celsius"
+}
