@@ -1,0 +1,80 @@
+{
+  "id": 6,
+  "name": "Lost Maldaer V",
+  "description": "Universe",
+  "image": "https://universe.co/nft/svg/6.png",
+  "date": 1651510862888,
+  "authors": "universe.co",
+  "contributors": "@jocodey.eth",
+  "season": 1,
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "None"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "None"
+    },
+    {
+      "trait_type": "Diameter",
+      "value": "23083 km"
+    },
+    {
+      "trait_type": "Identifier",
+      "value": "A395UMCV"
+    },
+    {
+      "trait_type": "Inhabitants",
+      "value": "None"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Lost Maldaer V"
+    },
+    {
+      "trait_type": "Resources 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Resources 2",
+      "value": "None"
+    },
+    {
+      "trait_type": "Resources 3",
+      "value": "Marble"
+    },
+    {
+      "trait_type": "Resources 4",
+      "value": "Sulfur"
+    },
+    {
+      "trait_type": "Rings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Satellites",
+      "value": "None"
+    },
+    {
+      "trait_type": "Ship",
+      "value": "None"
+    },
+    {
+      "trait_type": "Temperature",
+      "value": "29 °Celsius"
+    },
+    {
+      "trait_type": "Toxicity",
+      "value": "None"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Coreless"
+    },
+    {
+      "trait_type": "Vegetation",
+      "value": "None"
+    }
+  ]
+}
